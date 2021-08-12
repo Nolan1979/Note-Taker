@@ -9,7 +9,6 @@ This is a note taking app. It allows you to add, save, and delete notes!
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
