@@ -15,7 +15,7 @@ This is a note taking app. It allows you to add, save, and delete notes!
 Clone the repository from github and run npm install in your terminal or bash.
 
 ## Usage
-Once installed, Run "npm start". Open your browser and type the URL localhost:3005. You can also run it at https://git.heroku.com/whispering-eyrie-07301.git
+Once installed, Run "npm start". Open your browser and type the URL localhost:3005. You can also run it at https://whispering-eyrie-07301.herokuapp.com/
 
 ## License
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
